@@ -76,4 +76,10 @@ Ans- A frequency spectrum shows the individual frequencies in an audio signal an
 
 (--------------------------------------------------------------------------)
 
+14- How is a spectrogram different from a waveform?
+
+Ans- A spectrogram visualizes frequency content over time, showing how frequencies change, whereas a waveform shows amplitude changes over time.
+
+(--------------------------------------------------------------------------)
+
 
