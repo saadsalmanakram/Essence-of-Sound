@@ -676,3 +676,9 @@ Ans- A seq2seq model maps an input sequence to an output sequence, using both en
 
 (-----------------------------------------------------------------------)
 
+115- How does a seq2seq model differ from a CTC model?
+
+Ans- Unlike CTC models, seq2seq models can handle varying input and output sequence lengths, making them suitable for tasks like translation and summarization.
+
+(-----------------------------------------------------------------------)
+
