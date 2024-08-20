@@ -682,3 +682,9 @@ Ans- Unlike CTC models, seq2seq models can handle varying input and output seque
 
 (-----------------------------------------------------------------------)
 
+116- What is the role of the encoder in a seq2seq model?
+
+Ans- The encoder processes the input sequence and generates hidden states that represent the input's features.
+
+(-----------------------------------------------------------------------)
+
