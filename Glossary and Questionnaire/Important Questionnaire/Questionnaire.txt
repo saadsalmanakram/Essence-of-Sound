@@ -202,3 +202,10 @@ Ans- Use the cast_column method to specify the desired sampling rate for the aud
 
 (-------------------------------------------------------------------------)
 
+35- What happens to the audio signal when you upsample it from 8 kHz to 16 kHz?
+
+Ans- Additional sample values are calculated to approximate the continuous signal curve, effectively doubling the number of amplitude values.
+
+(-------------------------------------------------------------------------)
+
+
