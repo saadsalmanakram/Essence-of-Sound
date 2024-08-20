@@ -208,4 +208,10 @@ Ans- Additional sample values are calculated to approximate the continuous signa
 
 (-------------------------------------------------------------------------)
 
+36- What should be considered when downsampling audio data?
+
+Ans- Filter out high frequencies above the new Nyquist limit to prevent aliasing and distortion.
+
+(-------------------------------------------------------------------------)
+
 
