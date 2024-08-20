@@ -334,4 +334,10 @@ Ans- It allows for evaluating systems across multiple datasets, providing better
 
 (------------------------------------------------------------------------)
 
+59- What happens to the data after it's processed in streaming mode?
+
+Ans- It is not saved to disk, so you need to reprocess it each time you access the dataset.
+
+(------------------------------------------------------------------------)
+
 
