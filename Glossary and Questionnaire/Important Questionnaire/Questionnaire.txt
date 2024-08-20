@@ -166,4 +166,10 @@ Ans- The "htk" and "slaney" Mel scales differ in their frequency spacing and cal
 
 (-------------------------------------------------------------------------)
 
+29- Why might a machine learning model require a specific method for computing Mel Spectrograms?
+
+Ans- Different models may expect Mel Spectrograms computed in specific ways, such as using particular Mel scales or processing methods, to ensure consistency and accuracy in feature extraction.
+
+(-------------------------------------------------------------------------)
+
 
