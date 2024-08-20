@@ -262,4 +262,10 @@ Ans- Besides audio processing, tokenizing the text inputs is essential, which ca
 
 (-------------------------------------------------------------------------)
 
+47- How can you load both a feature extractor and tokenizer for a model like Whisper?
+
+Ans- Use AutoProcessor.from_pretrained() to load both components from a checkpoint.
+
+(-------------------------------------------------------------------------)
+
 
