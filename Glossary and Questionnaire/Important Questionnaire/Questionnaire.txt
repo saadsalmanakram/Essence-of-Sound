@@ -328,4 +328,10 @@ Ans- By using the take() function to get the first n elements.
 
 (------------------------------------------------------------------------)
 
+58- What is the significance of the End-to-end Speech Benchmark (ESB) in the context of streaming?
+
+Ans- It allows for evaluating systems across multiple datasets, providing better generalization metrics.
+
+(------------------------------------------------------------------------)
+
 
