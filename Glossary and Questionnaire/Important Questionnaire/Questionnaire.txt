@@ -418,3 +418,9 @@ Ans- It saves time and resources by leveraging an existing model that has alread
 
 (------------------------------------------------------------------------)
 
+73- What is the significance of the confidence scores in the classifier's output?
+
+Ans- Confidence scores indicate the model's certainty about each predicted label.
+
+(------------------------------------------------------------------------)
+
