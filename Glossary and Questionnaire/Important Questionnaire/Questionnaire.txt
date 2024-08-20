@@ -238,4 +238,10 @@ Ans- Converts raw audio data into input features expected by the model, such as 
 
 (-------------------------------------------------------------------------)
 
+41- How does Whisper's feature extractor handle audio examples of different lengths?
+
+Ans- It pads shorter examples to 30 seconds and truncates longer ones to 30 seconds.
+
+(-------------------------------------------------------------------------)
+
 
