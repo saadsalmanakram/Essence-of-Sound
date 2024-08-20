@@ -214,4 +214,10 @@ Ans- Filter out high frequencies above the new Nyquist limit to prevent aliasing
 
 (-------------------------------------------------------------------------)
 
+37- Why might you need to filter an audio dataset?
+
+Ans- To remove examples that are too long or too short, which could cause issues during training, like out-of-memory errors.
+
+(-------------------------------------------------------------------------)
+
 
