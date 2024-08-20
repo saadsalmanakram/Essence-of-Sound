@@ -742,3 +742,10 @@ Ans- A vocoder converts the generated spectrogram into an audio waveform and is 
 
 (-----------------------------------------------------------------------)
 
+126- Why might seq2seq models be slower than encoder-only models?
+
+Ans- Seq2seq models process sequences step-by-step during decoding, which can be slower, especially for long sequences.
+
+(-----------------------------------------------------------------------)
+
+
