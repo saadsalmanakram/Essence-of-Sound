@@ -364,4 +364,16 @@ Ans- Increased time for repeated access due to the need to reload and reprocess 
 
 (------------------------------------------------------------------------)
 
+64- How does streaming mode affect the download and processing time of audio datasets?
+
+Ans- It reduces the initial waiting time since data is processed incrementally.
+
+(------------------------------------------------------------------------)
+
+65- Is streaming mode suitable for datasets that you plan to use frequently?
+
+Ans- No, for frequent use, downloading and caching the dataset is more efficient.
+
+(------------------------------------------------------------------------)
+
 
