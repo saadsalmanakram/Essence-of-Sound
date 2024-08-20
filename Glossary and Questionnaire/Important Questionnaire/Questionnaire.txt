@@ -184,4 +184,10 @@ Ans- A higher n_mels value captures more detailed frequency information but incr
 
 (-------------------------------------------------------------------------)
 
+32- What are the common steps involved in preprocessing an audio dataset for training a model?
+
+Ans- Resampling the audio data, filtering the dataset, and converting audio data to the model's expected input format.
+
+(-------------------------------------------------------------------------)
+
 
