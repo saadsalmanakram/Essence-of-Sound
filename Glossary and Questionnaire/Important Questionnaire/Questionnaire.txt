@@ -160,4 +160,10 @@ Ans- Converting a Mel Spectrogram back into a waveform is more complex due to th
 
 (--------------------------------------------------------------------------)
 
+28- What are the differences between the "htk" and "slaney" Mel scales?
+
+Ans- The "htk" and "slaney" Mel scales differ in their frequency spacing and calculation methods, which can affect the resulting Mel Spectrogram.
+
+(-------------------------------------------------------------------------)
+
 
