@@ -568,3 +568,9 @@ Ans- Embeddings reduce the dimensionality and sequence length, making the data m
 
 (-----------------------------------------------------------------------)
 
+97- What role do CNNs play in transformer-based audio models like Wav2Vec2 and Whisper?
+
+Ans- CNNs are used to convert raw audio data into embeddings that can be processed by the transformer architecture.
+
+(-----------------------------------------------------------------------)
+
