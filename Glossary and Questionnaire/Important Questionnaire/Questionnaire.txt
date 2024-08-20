@@ -562,3 +562,9 @@ Ans- Encoder-only models are suited for understanding tasks, while decoder-only 
 
 (-----------------------------------------------------------------------)
 
+96- What is the purpose of converting audio data into embeddings before processing it with a transformer?
+
+Ans- Embeddings reduce the dimensionality and sequence length, making the data manageable for the transformer model.
+
+(-----------------------------------------------------------------------)
+
