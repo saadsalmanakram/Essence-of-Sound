@@ -100,4 +100,10 @@ Ans- A Mel Spectrogram is a variation of a spectrogram that maps the frequency a
 
 (--------------------------------------------------------------------------)
 
+18- How does a Mel Spectrogram differ from a standard spectrogram?
+
+Ans- A standard spectrogram uses a linear frequency axis, while a Mel Spectrogram uses the Mel scale, which reflects the non-linear frequency sensitivity of the human ear.
+
+(--------------------------------------------------------------------------)
+
 
