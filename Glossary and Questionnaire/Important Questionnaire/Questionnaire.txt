@@ -736,3 +736,9 @@ Ans- SpeechT5 predicts a secondary sequence indicating the probability of the cu
 
 (-----------------------------------------------------------------------)
 
+125- What is the role of a vocoder in TTS?
+
+Ans- A vocoder converts the generated spectrogram into an audio waveform and is trained separately from the seq2seq model.
+
+(-----------------------------------------------------------------------)
+
