@@ -430,3 +430,10 @@ Ans- ASR is a technology that converts spoken language into text.
 
 (-----------------------------------------------------------------------)
 
+73- What is the purpose of using a pipeline in ASR?
+
+Ans- The pipeline simplifies the process by handling pre-processing, model inference, and post-processing.
+
+(-----------------------------------------------------------------------)
+
+
