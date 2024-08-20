@@ -298,7 +298,7 @@ Ans- Faster start times as the data is processed on the fly, allowing immediate 
 
 (-------------------------------------------------------------------------)
 
-53- What is the primary trade-off of using streaming mode?
+53- What is the primary trade-off of using streaming mode in 🤗 Datasets?
 
 Ans- Data is not cached locally, so processing steps must be repeated each time.
 
