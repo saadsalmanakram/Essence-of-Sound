@@ -748,4 +748,16 @@ Ans- Seq2seq models process sequences step-by-step during decoding, which can be
 
 (-----------------------------------------------------------------------)
 
+127- What are some common techniques to improve the quality of seq2seq model predictions?
+
+Ans- Beam search and other decoding strategies can enhance prediction quality but may also slow down the decoding process.
+
+(-----------------------------------------------------------------------)
+
+128- How do seq2seq models handle different sequence lengths for input and output?
+
+Ans- Seq2seq models handle varying lengths by using the encoder to process the entire input sequence and the decoder to generate a sequence of any length based on the encoder’s outputs.
+
+(-----------------------------------------------------------------------)
+
 
