@@ -280,4 +280,12 @@ Ans- The sheer size of audio datasets, which can take up significant storage spa
 
 (-------------------------------------------------------------------------)
 
+50- Why is streaming mode useful when working with large audio datasets?
 
+Ans- It allows loading data progressively without requiring significant disk space.
+
+(-------------------------------------------------------------------------)
+
+
+
+Ans- 
