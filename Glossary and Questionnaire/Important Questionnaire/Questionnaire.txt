@@ -274,4 +274,10 @@ Ans- It simplifies loading a model's feature extractor and processor, streamlini
 
 (-------------------------------------------------------------------------)
 
+49- What is one of the biggest challenges with audio datasets?
+
+Ans- The sheer size of audio datasets, which can take up significant storage space.
+
+(-------------------------------------------------------------------------)
+
 
