@@ -610,3 +610,9 @@ Ans- CTC uses a linear mapping to project hidden states to character labels, mak
 
 (-----------------------------------------------------------------------)
 
+104- What is the purpose of the CTC blank token?
+
+Ans- The CTC blank token is used to separate characters and filter out duplicates in the predicted sequence, aiding in correct text transcription.
+
+(-----------------------------------------------------------------------)
+
