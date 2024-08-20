@@ -412,4 +412,9 @@ Ans- Fine-tune the pre-trained model to adapt it to the specific class labels re
 
 (------------------------------------------------------------------------)
 
+72- Why is it beneficial to use an off-the-shelf pre-trained model for audio classification?
+
+Ans- It saves time and resources by leveraging an existing model that has already been trained on relevant data.
+
+(------------------------------------------------------------------------)
 
