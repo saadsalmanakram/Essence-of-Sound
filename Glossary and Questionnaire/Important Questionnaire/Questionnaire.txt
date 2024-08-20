@@ -196,3 +196,9 @@ Ans- Models are often trained on data with a specific sampling rate, so resampli
 
 (-------------------------------------------------------------------------)
 
+34- How can you resample audio data using the 🤗 Datasets library?
+
+Ans- Use the cast_column method to specify the desired sampling rate for the audio column.
+
+(-------------------------------------------------------------------------)
+
