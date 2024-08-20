@@ -448,4 +448,10 @@ Ans- Upsampling to 16kHz ensures the audio is in a compatible format for most AS
 
 (-----------------------------------------------------------------------)
 
+76- How does the ASR pipeline handle accents in speech?
+
+Ans- The ASR pipeline may have limitations with accents, but it generally performs well depending on the model's training data.
+
+(-----------------------------------------------------------------------)
+
 
