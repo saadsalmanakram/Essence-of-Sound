@@ -358,4 +358,10 @@ Ans- In streaming mode, you cannot use Python indexing and must iterate through 
 
 (------------------------------------------------------------------------)
 
+63- What is a potential drawback of not downloading and caching the dataset locally?
+
+Ans- Increased time for repeated access due to the need to reload and reprocess data each time.
+
+(------------------------------------------------------------------------)
+
 
