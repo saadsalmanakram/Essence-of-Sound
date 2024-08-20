@@ -394,4 +394,16 @@ Ans- Casting the audio column ensures that all audio data is resampled to the 16
 
 (------------------------------------------------------------------------)
 
+69- How is audio data passed to the pipeline() for classification?
+
+Ans- The audio data, stored as a NumPy array, is directly passed to the classifier pipeline.
+
+(------------------------------------------------------------------------)
+
+70- What does the output of the classifier pipeline represent?
+
+Ans- The output is a list of labels with associated confidence scores, indicating the most likely intent of the audio recording.
+
+(------------------------------------------------------------------------)
+
 
