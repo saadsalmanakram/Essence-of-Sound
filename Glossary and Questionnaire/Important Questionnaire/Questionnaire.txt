@@ -442,4 +442,10 @@ Ans- Use pipeline("automatic-speech-recognition") to create an ASR pipeline.
 
 (-----------------------------------------------------------------------)
 
+75- What is the importance of upsampling audio data to 16kHz in ASR?
+
+Ans- Upsampling to 16kHz ensures the audio is in a compatible format for most ASR models.
+
+(-----------------------------------------------------------------------)
+
 
