@@ -502,4 +502,10 @@ Ans- Common tasks include Automatic Speech Recognition (ASR), Text-to-Speech (TT
 
 (-----------------------------------------------------------------------)
 
+86- What are the input types for audio transformers?
+
+Ans- Inputs can be raw audio waveforms or spectrograms, which are then converted into embeddings for transformer processing.
+
+(-----------------------------------------------------------------------)
+
 
