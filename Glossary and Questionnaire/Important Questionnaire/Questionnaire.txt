@@ -142,4 +142,16 @@ Ans- fmax sets the highest frequency limit for the Mel Spectrogram, focusing the
 
 (--------------------------------------------------------------------------)
 
+25- In what applications is a Mel Spectrogram commonly used?
+
+Ans- Mel Spectrograms are widely used in speech recognition, speaker identification, music genre classification, and other audio processing tasks.
+
+(--------------------------------------------------------------------------)
+
+26- What are the limitations of using Mel Spectrograms in audio processing?
+
+Ans- Mel Spectrograms are lossy due to filtering, making it challenging to reconstruct the original waveform. They may also not capture high-frequency details as well as a standard spectrogram.
+
+(--------------------------------------------------------------------------)
+
 
