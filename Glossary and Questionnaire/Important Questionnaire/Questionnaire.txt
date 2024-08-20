@@ -268,4 +268,10 @@ Ans- Use AutoProcessor.from_pretrained() to load both components from a checkpoi
 
 (-------------------------------------------------------------------------)
 
+48- What is the advantage of using the AutoProcessor class in the 🤗 Transformers library?
+
+Ans- It simplifies loading a model's feature extractor and processor, streamlining the preprocessing pipeline.
+
+(-------------------------------------------------------------------------)
+
 
