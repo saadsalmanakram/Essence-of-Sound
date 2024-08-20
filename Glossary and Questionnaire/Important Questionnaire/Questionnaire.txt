@@ -472,4 +472,10 @@ Ans- It saves time and effort by automating the data handling and leveraging pre
 
 (-----------------------------------------------------------------------)
 
+80- How can you verify the accuracy of the ASR pipeline's transcription?
+
+Ans- Compare the pipeline's output with the original transcription to assess accuracy.
+
+(-----------------------------------------------------------------------)
+
 
