@@ -550,3 +550,9 @@ Ans- A vocoder estimates the phase information from a spectrogram to reconstruct
 
 (-----------------------------------------------------------------------)
 
+94- What is the main architectural similarity across different audio transformers?
+
+Ans- They all use the same core transformer architecture, with task-specific modifications to the input and output layers.
+
+(-----------------------------------------------------------------------)
+
