@@ -1,0 +1,6 @@
+1- What is a continuous sound wave?
+
+Ans- A continuous sound wave is a signal with an infinite number of signal values over time, representing the analog nature of sound.
+
+(--------------------------------------------------------------------------)
+
