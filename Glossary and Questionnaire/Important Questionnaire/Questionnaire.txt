@@ -670,3 +670,9 @@ Ans- Padding tokens help in aligning and batching sequences during training, and
 
 (-----------------------------------------------------------------------)
 
+114- What is a seq2seq model in the context of transformers?
+
+Ans- A seq2seq model maps an input sequence to an output sequence, using both encoder and decoder parts of the transformer architecture.
+
+(-----------------------------------------------------------------------)
+
