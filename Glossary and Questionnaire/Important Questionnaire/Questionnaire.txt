@@ -136,4 +136,10 @@ Ans- Expressing in dB allows for better visualization and comparison of the ampl
 
 (--------------------------------------------------------------------------)
 
+24- What is the purpose of the fmax parameter in the librosa.feature.melspectrogram() function?
+
+Ans- fmax sets the highest frequency limit for the Mel Spectrogram, focusing the analysis on frequencies of interest up to this value.
+
+(--------------------------------------------------------------------------)
+
 
