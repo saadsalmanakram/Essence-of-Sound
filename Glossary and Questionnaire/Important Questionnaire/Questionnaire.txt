@@ -658,3 +658,9 @@ Ans- CTC focuses on predicting individual characters without considering word-le
 
 (-----------------------------------------------------------------------)
 
+112- What makes transformer-based CTC models suitable for multilingual speech recognition?
+
+Ans- Transformer-based CTC models like M-CTC-T are designed with larger heads that accommodate multiple alphabets, making them suitable for multilingual ASR.
+
+(-----------------------------------------------------------------------)
+
