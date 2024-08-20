@@ -616,3 +616,9 @@ Ans- The CTC blank token is used to separate characters and filter out duplicate
 
 (-----------------------------------------------------------------------)
 
+105- Why is a small vocabulary preferred for CTC models?
+
+Ans- A small vocabulary reduces complexity and improves accuracy, as CTC models are more effective with fewer character classes.
+
+(-----------------------------------------------------------------------)
+
