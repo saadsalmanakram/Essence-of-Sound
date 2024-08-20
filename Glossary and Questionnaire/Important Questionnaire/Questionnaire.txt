@@ -112,4 +112,10 @@ Ans- The Mel scale is a perceptual scale of pitches that approximates human ear 
 
 (--------------------------------------------------------------------------)
 
+20- What role does the Mel filterbank play in generating a Mel Spectrogram?
+
+Ans- The Mel filterbank applies a set of filters to the frequency spectra to map them from the linear frequency axis to the Mel scale.
+
+(--------------------------------------------------------------------------)
+
 
