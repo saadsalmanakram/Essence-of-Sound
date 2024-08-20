@@ -520,4 +520,8 @@ Ans- Spectrograms compress the input data, resulting in shorter sequence lengths
 
 (-----------------------------------------------------------------------)
 
+89- How does the Whisper model process audio input?
 
+Ans- Whisper converts audio waveforms into log-mel spectrograms, which are then processed into embeddings by a CNN for the transformer.
+
+(-----------------------------------------------------------------------)
