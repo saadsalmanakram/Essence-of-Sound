@@ -322,4 +322,10 @@ Ans- You need to iterate over the dataset instead of using direct indexing.
 
 (------------------------------------------------------------------------)
 
+57- How can you preview several examples from a large streaming dataset?
+
+Ans- By using the take() function to get the first n elements.
+
+(------------------------------------------------------------------------)
+
 
