@@ -352,4 +352,10 @@ Ans- It makes large datasets accessible without the need for extensive storage s
 
 (------------------------------------------------------------------------)
 
+62- What is the difference in accessing data in streaming mode versus traditional mode?
+
+Ans- In streaming mode, you cannot use Python indexing and must iterate through the dataset.
+
+(------------------------------------------------------------------------)
+
 
