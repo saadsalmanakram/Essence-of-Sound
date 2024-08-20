@@ -525,3 +525,10 @@ Ans- Spectrograms compress the input data, resulting in shorter sequence lengths
 Ans- Whisper converts audio waveforms into log-mel spectrograms, which are then processed into embeddings by a CNN for the transformer.
 
 (-----------------------------------------------------------------------)
+
+90- What do the output embeddings of a transformer represent?
+
+Ans- Output embeddings are hidden-state vectors that need to be transformed into the desired output format, such as text or audio.
+
+(-----------------------------------------------------------------------)
+
