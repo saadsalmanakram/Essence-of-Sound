@@ -172,4 +172,16 @@ Ans- Different models may expect Mel Spectrograms computed in specific ways, suc
 
 (-------------------------------------------------------------------------)
 
+30- What are some common alternatives to Mel Spectrograms for audio analysis?
+
+Ans- Alternatives include raw waveforms, standard spectrograms, and other time-frequency representations like the Constant-Q Transform (CQT).
+
+(-------------------------------------------------------------------------)
+
+31- How does the choice of n_mels affect the Mel Spectrogram and its use in machine learning models?
+
+Ans- A higher n_mels value captures more detailed frequency information but increases computational cost, while a lower value may reduce resolution but simplify processing.
+
+(-------------------------------------------------------------------------)
+
 
