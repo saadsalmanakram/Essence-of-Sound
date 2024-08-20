@@ -316,4 +316,10 @@ Ans- To avoid reprocessing data for repeated use, since the processed data is ca
 
 (------------------------------------------------------------------------)
 
+56- What happens if you want to access a specific sample in streaming mode?
+
+Ans- You need to iterate over the dataset instead of using direct indexing.
+
+(------------------------------------------------------------------------)
+
 
