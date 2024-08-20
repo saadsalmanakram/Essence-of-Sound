@@ -580,3 +580,9 @@ Ans- CTC is a technique used in automatic speech recognition (ASR) to align audi
 
 (-----------------------------------------------------------------------)
 
+99- What role does CTC play in ASR models?
+
+Ans- CTC helps in decoding sequences by aligning and filtering out duplicates in predicted characters from continuous audio input.
+
+(-----------------------------------------------------------------------)
+
