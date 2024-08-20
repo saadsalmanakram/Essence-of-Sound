@@ -64,4 +64,10 @@ Ans- Amplitude represents the sound pressure level, perceived as loudness, and i
 
 (--------------------------------------------------------------------------)
 
+12- What is a waveform in audio data?
+
+Ans- A waveform is a time-domain representation that visualizes the sample values of an audio signal over time.
+
+(--------------------------------------------------------------------------)
+
 
