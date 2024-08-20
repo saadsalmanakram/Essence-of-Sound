@@ -190,4 +190,9 @@ Ans- Resampling the audio data, filtering the dataset, and converting audio data
 
 (-------------------------------------------------------------------------)
 
+33- Why is it important to resample audio data when preparing it for a model?
+
+Ans- Models are often trained on data with a specific sampling rate, so resampling ensures compatibility with the model's expected input.
+
+(-------------------------------------------------------------------------)
 
