@@ -286,6 +286,12 @@ Ans- It allows loading data progressively without requiring significant disk spa
 
 (-------------------------------------------------------------------------)
 
+51- How does streaming mode impact disk space usage?
+
+Ans- It reduces disk space usage by loading only one example at a time into memory.
+
+(-------------------------------------------------------------------------)
+
 
 
 Ans- 
