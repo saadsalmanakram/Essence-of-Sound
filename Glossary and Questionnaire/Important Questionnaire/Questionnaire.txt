@@ -52,4 +52,10 @@ Ans- Bit depth determines the precision with which the amplitude of a sound wave
 
 (--------------------------------------------------------------------------)
 
+10- How does bit depth affect quantization noise?
+
+Ans- Higher bit depth reduces quantization noise, making the digital audio representation more accurate.
+
+(--------------------------------------------------------------------------)
+
 
