@@ -346,4 +346,10 @@ Ans- Yes, streaming mode is useful for quick experimentation without needing to 
 
 (------------------------------------------------------------------------)
 
+61- Why is streaming mode particularly beneficial for large datasets?
+
+Ans- It makes large datasets accessible without the need for extensive storage space.
+
+(------------------------------------------------------------------------)
+
 
