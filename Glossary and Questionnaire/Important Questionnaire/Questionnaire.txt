@@ -46,4 +46,10 @@ Ans- A consistent sampling rate ensures uniform temporal resolution and prevents
 
 (--------------------------------------------------------------------------)
 
+9- What does bit depth represent in digital audio?
+
+Ans- Bit depth determines the precision with which the amplitude of a sound wave is captured in each sample.
+
+(--------------------------------------------------------------------------)
+
 
