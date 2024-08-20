@@ -118,4 +118,10 @@ Ans- The Mel filterbank applies a set of filters to the frequency spectra to map
 
 (--------------------------------------------------------------------------)
 
+21- How do you convert a standard spectrogram to a Mel Spectrogram?
+
+Ans- Compute the Short-Time Fourier Transform (STFT) to get the spectrogram, then apply the Mel filterbank to transform the frequencies to the Mel scale.
+
+(--------------------------------------------------------------------------)
+
 
