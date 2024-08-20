@@ -664,3 +664,9 @@ Ans- Transformer-based CTC models like M-CTC-T are designed with larger heads th
 
 (-----------------------------------------------------------------------)
 
+113- Why is padding important in CTC models?
+
+Ans- Padding tokens help in aligning and batching sequences during training, and in CTC, the same token may also be used as the blank token for easier decoding.
+
+(-----------------------------------------------------------------------)
+
