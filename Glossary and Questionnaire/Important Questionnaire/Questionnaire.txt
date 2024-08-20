@@ -544,3 +544,9 @@ Ans- Transformers often generate a spectrogram, which is then converted into a w
 
 (-----------------------------------------------------------------------)
 
+93- What is a vocoder used for in audio transformers?
+
+Ans- A vocoder estimates the phase information from a spectrogram to reconstruct the original audio waveform.
+
+(-----------------------------------------------------------------------)
+
