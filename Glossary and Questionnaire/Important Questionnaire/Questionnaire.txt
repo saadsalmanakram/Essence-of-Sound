@@ -712,3 +712,9 @@ Ans- Cross-entropy loss is commonly used, with additional techniques like beam s
 
 (-----------------------------------------------------------------------)
 
+121- What metric is used to evaluate speech recognition models like Whisper?
+
+Ans- Word Error Rate (WER) measures the number of substitutions, insertions, and deletions needed to match the predicted text to the target text.
+
+(-----------------------------------------------------------------------)
+
