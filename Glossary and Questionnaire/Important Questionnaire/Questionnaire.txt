@@ -226,4 +226,10 @@ Ans- Add a duration column using librosa.get_duration(), apply a filter function
 
 (-------------------------------------------------------------------------)
 
+39- What is the purpose of the filter method in 🤗 Datasets?
+
+Ans- It allows you to retain or remove dataset entries based on custom logic, such as duration constraints.
+
+(-------------------------------------------------------------------------)
+
 
