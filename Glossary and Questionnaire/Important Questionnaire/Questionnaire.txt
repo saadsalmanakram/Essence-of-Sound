@@ -640,3 +640,9 @@ Ans- What is the primary difference between Wav2Vec2 and HuBERT in terms of trai
 
 (-----------------------------------------------------------------------)
 
+109- Wav2Vec2 is trained using masked language modeling on audio, while HuBERT learns to predict discrete speech units.
+
+Ans- Wav2Vec2 is trained using masked language modeling on audio, while HuBERT learns to predict discrete speech units.
+
+(-----------------------------------------------------------------------)
+
