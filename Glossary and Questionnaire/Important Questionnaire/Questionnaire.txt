@@ -586,3 +586,9 @@ Ans- CTC helps in decoding sequences by aligning and filtering out duplicates in
 
 (-----------------------------------------------------------------------)
 
+100- Why is CTC commonly used with encoder-only transformer models?
+
+Ans- CTC effectively handles the unknown alignment between audio inputs and textual outputs, which is common in ASR tasks, making it ideal for use with encoder-only transformer models.
+
+(-----------------------------------------------------------------------)
+
