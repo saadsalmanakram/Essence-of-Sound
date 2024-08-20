@@ -574,3 +574,9 @@ Ans- CNNs are used to convert raw audio data into embeddings that can be process
 
 (-----------------------------------------------------------------------)
 
+98- What is CTC (Connectionist Temporal Classification)?
+
+Ans- CTC is a technique used in automatic speech recognition (ASR) to align audio inputs with text outputs without knowing the exact timing of the transcription.
+
+(-----------------------------------------------------------------------)
+
