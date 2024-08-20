@@ -10,3 +10,9 @@ Ans- Digital representation is necessary to convert the continuous sound wave in
 
 (--------------------------------------------------------------------------)
 
+3- What are common audio file formats, and how do they differ?
+
+Ans- Common formats include .wav, .flac, and .mp3, which differ in how they compress the digital audio signal.
+
+(--------------------------------------------------------------------------)
+
