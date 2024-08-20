@@ -388,4 +388,10 @@ Ans- Audio classification is the process of assigning labels to audio recordings
 
 (------------------------------------------------------------------------)
 
+68- What is the purpose of casting the audio column with a specific sampling rate?
+
+Ans- Casting the audio column ensures that all audio data is resampled to the 16kHz rate required by the model.
+
+(------------------------------------------------------------------------)
+
 
