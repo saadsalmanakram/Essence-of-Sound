@@ -730,3 +730,9 @@ Ans- TTS involves a one-to-many mapping where multiple spectrograms can represen
 
 (-----------------------------------------------------------------------)
 
+124- How does SpeechT5 handle the end of the spectrogram generation in TTS?
+
+Ans- SpeechT5 predicts a secondary sequence indicating the probability of the current timestep being the last, guiding when to stop generating the spectrogram.
+
+(-----------------------------------------------------------------------)
+
