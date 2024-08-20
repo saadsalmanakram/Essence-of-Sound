@@ -130,4 +130,10 @@ Ans- n_mels specifies the number of Mel bands or filters to use, dividing the fr
 
 (--------------------------------------------------------------------------)
 
+23- Why is it important to express the Mel Spectrogram in decibels (dB)?
+
+Ans- Expressing in dB allows for better visualization and comparison of the amplitude variations by accounting for the logarithmic nature of human perception of loudness.
+
+(--------------------------------------------------------------------------)
+
 
