@@ -58,4 +58,10 @@ Ans- Higher bit depth reduces quantization noise, making the digital audio repre
 
 (--------------------------------------------------------------------------)
 
+11- What is the amplitude of sound, and how is it measured?
+
+Ans- Amplitude represents the sound pressure level, perceived as loudness, and is measured in decibels (dB).
+
+(--------------------------------------------------------------------------)
+
 
