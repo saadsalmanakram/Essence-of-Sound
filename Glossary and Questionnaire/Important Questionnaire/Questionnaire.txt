@@ -706,3 +706,9 @@ Ans- Whisper uses an encoder to process log-mel spectrograms and a decoder to ge
 
 (-----------------------------------------------------------------------)
 
+120- What is the typical loss function for a seq2seq ASR model?
+
+Ans- Cross-entropy loss is commonly used, with additional techniques like beam search to refine predictions.
+
+(-----------------------------------------------------------------------)
+
