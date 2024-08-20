@@ -622,3 +622,9 @@ Ans- A small vocabulary reduces complexity and improves accuracy, as CTC models 
 
 (-----------------------------------------------------------------------)
 
+106- How does Wav2Vec2 handle the alignment of audio and text during training?
+
+Ans- Wav2Vec2 does not rely on explicit alignment; it uses CTC to map audio input to text output, despite the lack of timing information.
+
+(-----------------------------------------------------------------------)
+
