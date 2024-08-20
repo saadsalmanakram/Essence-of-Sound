@@ -310,4 +310,10 @@ Ans- By setting streaming=True when loading the dataset.
 
 (-------------------------------------------------------------------------)
 
+55- Why might someone choose to download a full dataset instead of using streaming mode?
+
+Ans- To avoid reprocessing data for repeated use, since the processed data is cached locally.
+
+(------------------------------------------------------------------------)
+
 
