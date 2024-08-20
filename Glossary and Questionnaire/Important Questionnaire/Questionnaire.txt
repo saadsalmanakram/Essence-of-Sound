@@ -124,4 +124,10 @@ Ans- Compute the Short-Time Fourier Transform (STFT) to get the spectrogram, the
 
 (--------------------------------------------------------------------------)
 
+22- What does the n_mels parameter specify in the librosa.feature.melspectrogram() function?
+
+Ans- n_mels specifies the number of Mel bands or filters to use, dividing the frequency spectrum into perceptually relevant bands.
+
+(--------------------------------------------------------------------------)
+
 
