@@ -94,4 +94,10 @@ Ans- Spectrograms allow the visualization of time, frequency, and amplitude in o
 
 (--------------------------------------------------------------------------)
 
+17- What is a Mel Spectrogram?
+
+Ans- A Mel Spectrogram is a variation of a spectrogram that maps the frequency axis to the Mel scale, which approximates the human ear's frequency perception.
+
+(--------------------------------------------------------------------------)
+
 
