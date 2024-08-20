@@ -514,4 +514,10 @@ Ans- Wav2Vec2 converts raw audio waveforms into embeddings using a convolutional
 
 (-----------------------------------------------------------------------)
 
+88- What is the advantage of using spectrograms over raw waveforms as input?
+
+Ans- Spectrograms compress the input data, resulting in shorter sequence lengths, which reduces computational requirements.
+
+(-----------------------------------------------------------------------)
+
 
