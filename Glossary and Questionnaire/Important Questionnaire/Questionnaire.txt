@@ -256,4 +256,10 @@ Ans- Define a function that processes the audio data through the feature extract
 
 (-------------------------------------------------------------------------)
 
+46- What additional preprocessing might be necessary for multimodal tasks like speech recognition?
+
+Ans- Besides audio processing, tokenizing the text inputs is essential, which can be done using model-specific tokenizers.
+
+(-------------------------------------------------------------------------)
+
 
