@@ -82,4 +82,10 @@ Ans- A spectrogram visualizes frequency content over time, showing how frequenci
 
 (--------------------------------------------------------------------------)
 
+15- What is the Short Time Fourier Transform (STFT)?
+
+Ans- STFT is an algorithm that computes the spectrogram by taking multiple Fourier transforms over small time segments of an audio signal.
+
+(--------------------------------------------------------------------------)
+
 
