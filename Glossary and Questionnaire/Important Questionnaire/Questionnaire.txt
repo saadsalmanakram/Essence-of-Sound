@@ -4,3 +4,9 @@ Ans- A continuous sound wave is a signal with an infinite number of signal value
 
 (--------------------------------------------------------------------------)
 
+2- Why is digital representation necessary for audio data?
+
+Ans- Digital representation is necessary to convert the continuous sound wave into discrete values that digital devices can process, store, and transmit.
+
+(--------------------------------------------------------------------------)
+
