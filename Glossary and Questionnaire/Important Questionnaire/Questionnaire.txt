@@ -88,4 +88,10 @@ Ans- STFT is an algorithm that computes the spectrogram by taking multiple Fouri
 
 (--------------------------------------------------------------------------)
 
+16- Why are spectrograms useful in audio analysis?
+
+Ans- Spectrograms allow the visualization of time, frequency, and amplitude in one graph, helping to identify features like instruments or vowel sounds.
+
+(--------------------------------------------------------------------------)
+
 
