@@ -34,4 +34,10 @@ Ans- The sampling rate indicates the number of samples taken per second, measure
 
 (--------------------------------------------------------------------------)
 
+7- What is the Nyquist limit?
+
+Ans- The Nyquist limit is the highest frequency that can be captured, which is half the sampling rate.
+
+(--------------------------------------------------------------------------)
+
 
