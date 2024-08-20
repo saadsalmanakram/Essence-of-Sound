@@ -16,3 +16,10 @@ Ans- Common formats include .wav, .flac, and .mp3, which differ in how they comp
 
 (--------------------------------------------------------------------------)
 
+4- What is the role of a microphone in audio digitization?
+
+Ans- A microphone converts sound waves into an electrical signal, which can then be digitized.
+
+(--------------------------------------------------------------------------)
+
+
