@@ -22,4 +22,10 @@ Ans- A microphone converts sound waves into an electrical signal, which can then
 
 (--------------------------------------------------------------------------)
 
+5- What is sampling in audio processing?
+
+Ans- Sampling is the process of measuring the value of a continuous signal at fixed time intervals.
+
+(--------------------------------------------------------------------------)
+
 
