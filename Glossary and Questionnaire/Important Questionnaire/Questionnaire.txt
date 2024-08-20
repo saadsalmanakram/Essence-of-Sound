@@ -423,10 +423,3 @@ Ans- It saves time and resources by leveraging an existing model that has alread
 Ans- Confidence scores indicate the model's certainty about each predicted label.
 
 (------------------------------------------------------------------------)
-
-74- What is the next step after audio classification in speech processing?
-
-Ans- The next common task is automatic speech recognition (ASR).
-
-(------------------------------------------------------------------------)
-
