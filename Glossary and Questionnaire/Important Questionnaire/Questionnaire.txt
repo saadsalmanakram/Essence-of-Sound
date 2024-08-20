@@ -634,3 +634,9 @@ Ans- Both Wav2Vec2 and HuBERT use the same transformer encoder architecture but 
 
 (-----------------------------------------------------------------------)
 
+108- What is the primary difference between Wav2Vec2 and HuBERT in terms of training?
+
+Ans- What is the primary difference between Wav2Vec2 and HuBERT in terms of training?
+
+(-----------------------------------------------------------------------)
+
