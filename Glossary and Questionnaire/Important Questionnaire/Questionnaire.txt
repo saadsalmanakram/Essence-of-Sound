@@ -646,3 +646,9 @@ Ans- Wav2Vec2 is trained using masked language modeling on audio, while HuBERT l
 
 (-----------------------------------------------------------------------)
 
+110- What is the impact of using an external language model with CTC?
+
+Ans- An external language model can improve transcription accuracy by acting as a spellchecker on top of CTC outputs.
+
+(-----------------------------------------------------------------------)
+
