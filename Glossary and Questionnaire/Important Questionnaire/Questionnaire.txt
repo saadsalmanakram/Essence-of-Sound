@@ -304,4 +304,10 @@ Ans- Data is not cached locally, so processing steps must be repeated each time.
 
 (-------------------------------------------------------------------------)
 
+54- How do you enable streaming mode when loading a dataset using 🤗 Datasets?
+
+Ans- By setting streaming=True when loading the dataset.
+
+(-------------------------------------------------------------------------)
+
 
