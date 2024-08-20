@@ -70,4 +70,10 @@ Ans- A waveform is a time-domain representation that visualizes the sample value
 
 (--------------------------------------------------------------------------)
 
+13- What does a frequency spectrum represent?
+
+Ans- A frequency spectrum shows the individual frequencies in an audio signal and their amplitudes.
+
+(--------------------------------------------------------------------------)
+
 
