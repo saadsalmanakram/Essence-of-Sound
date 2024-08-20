@@ -532,3 +532,15 @@ Ans- Output embeddings are hidden-state vectors that need to be transformed into
 
 (-----------------------------------------------------------------------)
 
+91- How is text generated from transformer output embeddings in ASR?
+
+Ans- A language modeling head is added to the transformer to predict text tokens from the output embeddings.
+
+(-----------------------------------------------------------------------)
+
+92- What is a common approach to generate audio output from transformers?
+
+Ans- Transformers often generate a spectrogram, which is then converted into a waveform using a vocoder.
+
+(-----------------------------------------------------------------------)
+
