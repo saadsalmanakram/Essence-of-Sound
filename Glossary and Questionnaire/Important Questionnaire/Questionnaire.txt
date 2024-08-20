@@ -478,4 +478,16 @@ Ans- Compare the pipeline's output with the original transcription to assess acc
 
 (-----------------------------------------------------------------------)
 
+81- What should you do if the ASR pipeline's results are not ideal?
+
+Ans- Use the pipeline’s output as a baseline for further model fine-tuning.
+
+(-----------------------------------------------------------------------)
+
+82- What does the pipeline() function do in the context of ASR?
+
+Ans- The pipeline() function integrates all steps of ASR, including model inference and text output.
+
+(-----------------------------------------------------------------------)
+
 
