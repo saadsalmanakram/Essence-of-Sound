@@ -598,3 +598,15 @@ Ans- Wav2Vec2, HuBERT, and M-CTC-T are examples of ASR models that utilize CTC.
 
 (-----------------------------------------------------------------------)
 
+102- What is the main difference between Wav2Vec2 and M-CTC-T in terms of input?
+
+Ans- Wav2Vec2 processes raw audio waveforms, while M-CTC-T uses mel spectrograms as input.
+
+(-----------------------------------------------------------------------)
+
+103- How does CTC handle character prediction in ASR?
+
+Ans- CTC uses a linear mapping to project hidden states to character labels, making predictions at regular intervals, often resulting in duplicate characters that are later filtered out.
+
+(-----------------------------------------------------------------------)
+
