@@ -340,4 +340,10 @@ Ans- It is not saved to disk, so you need to reprocess it each time you access t
 
 (------------------------------------------------------------------------)
 
+60- Can you use streaming mode for experimentation on small parts of a dataset?
+
+Ans- Yes, streaming mode is useful for quick experimentation without needing to download the entire dataset.
+
+(------------------------------------------------------------------------)
+
 
