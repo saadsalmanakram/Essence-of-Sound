@@ -106,4 +106,10 @@ Ans- A standard spectrogram uses a linear frequency axis, while a Mel Spectrogra
 
 (--------------------------------------------------------------------------)
 
+19- What is the Mel scale, and why is it used in Mel Spectrograms?
+
+Ans- The Mel scale is a perceptual scale of pitches that approximates human ear sensitivity to different frequencies, with higher sensitivity to lower frequencies. It’s used to better capture perceptually meaningful audio features.
+
+(--------------------------------------------------------------------------)
+
 
