@@ -28,4 +28,10 @@ Ans- Sampling is the process of measuring the value of a continuous signal at fi
 
 (--------------------------------------------------------------------------)
 
+6- What does the sampling rate signify?
+
+Ans- The sampling rate indicates the number of samples taken per second, measured in hertz (Hz).
+
+(--------------------------------------------------------------------------)
+
 
