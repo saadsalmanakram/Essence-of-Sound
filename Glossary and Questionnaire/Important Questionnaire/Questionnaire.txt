@@ -592,3 +592,9 @@ Ans- CTC effectively handles the unknown alignment between audio inputs and text
 
 (-----------------------------------------------------------------------)
 
+101- Can you name some ASR models that use CTC?
+
+Ans- Wav2Vec2, HuBERT, and M-CTC-T are examples of ASR models that utilize CTC.
+
+(-----------------------------------------------------------------------)
+
