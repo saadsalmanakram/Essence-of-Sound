@@ -423,3 +423,10 @@ Ans- It saves time and resources by leveraging an existing model that has alread
 Ans- Confidence scores indicate the model's certainty about each predicted label.
 
 (------------------------------------------------------------------------)
+
+72- What is Automatic Speech Recognition (ASR)?
+
+Ans- ASR is a technology that converts spoken language into text.
+
+(-----------------------------------------------------------------------)
+
