@@ -406,4 +406,10 @@ Ans- The output is a list of labels with associated confidence scores, indicatin
 
 (------------------------------------------------------------------------)
 
+71- What would you do if a pre-trained model's set of classes doesn’t match the classes you need?
+
+Ans- Fine-tune the pre-trained model to adapt it to the specific class labels required for the task.
+
+(------------------------------------------------------------------------)
+
 
