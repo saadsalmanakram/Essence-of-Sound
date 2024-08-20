@@ -718,3 +718,9 @@ Ans- Word Error Rate (WER) measures the number of substitutions, insertions, and
 
 (-----------------------------------------------------------------------)
 
+122- How does text-to-speech (TTS) differ from speech-to-text (ASR) in seq2seq models?
+
+Ans- In TTS, the encoder processes text tokens to generate hidden states, and the decoder predicts spectrograms, which are then converted to audio waveforms.
+
+(-----------------------------------------------------------------------)
+
