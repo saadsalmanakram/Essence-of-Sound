@@ -490,4 +490,10 @@ Ans- The pipeline() function integrates all steps of ASR, including model infere
 
 (-----------------------------------------------------------------------)
 
+84- How are transformer models adapted for audio tasks?
+
+Ans- Transformers for audio use similar architectures but modify the input/output layers to handle audio data, such as waveforms or spectrograms.
+
+(-----------------------------------------------------------------------)
+
 
