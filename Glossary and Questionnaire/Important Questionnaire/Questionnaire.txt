@@ -688,3 +688,21 @@ Ans- The encoder processes the input sequence and generates hidden states that r
 
 (-----------------------------------------------------------------------)
 
+117- What does the decoder do in a seq2seq model?
+
+Ans- The decoder generates the output sequence by predicting one token at a time based on the encoder’s hidden states and previously generated tokens.
+
+(-----------------------------------------------------------------------)
+
+118- What is the primary difference between the encoder and decoder in transformers?
+
+Ans- The encoder uses self-attention to process the input sequence, while the decoder uses cross-attention to incorporate encoder outputs and has causal attention to prevent looking ahead.
+
+(-----------------------------------------------------------------------)
+
+119- How does Whisper utilize seq2seq architecture for speech recognition?
+
+Ans- Whisper uses an encoder to process log-mel spectrograms and a decoder to generate text sequences autoregressively.
+
+(-----------------------------------------------------------------------)
+
