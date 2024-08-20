@@ -508,4 +508,10 @@ Ans- Inputs can be raw audio waveforms or spectrograms, which are then converted
 
 (-----------------------------------------------------------------------)
 
+87- How does Wav2Vec2 handle audio input?
+
+Ans- Wav2Vec2 converts raw audio waveforms into embeddings using a convolutional neural network (CNN) before feeding them into the transformer.
+
+(-----------------------------------------------------------------------)
+
 
