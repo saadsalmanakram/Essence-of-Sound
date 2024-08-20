@@ -436,4 +436,10 @@ Ans- The pipeline simplifies the process by handling pre-processing, model infer
 
 (-----------------------------------------------------------------------)
 
+74- How do you instantiate an ASR pipeline using the 🤗 Transformers library?
+
+Ans- Use pipeline("automatic-speech-recognition") to create an ASR pipeline.
+
+(-----------------------------------------------------------------------)
+
 
