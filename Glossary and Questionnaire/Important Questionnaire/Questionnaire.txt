@@ -724,3 +724,9 @@ Ans- In TTS, the encoder processes text tokens to generate hidden states, and th
 
 (-----------------------------------------------------------------------)
 
+123- What is a key challenge in TTS models compared to ASR models?
+
+Ans- TTS involves a one-to-many mapping where multiple spectrograms can represent the same text, making evaluation more complex and subjective.
+
+(-----------------------------------------------------------------------)
+
