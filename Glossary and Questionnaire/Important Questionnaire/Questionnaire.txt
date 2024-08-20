@@ -180,7 +180,7 @@ Ans- Alternatives include raw waveforms, standard spectrograms, and other time-f
 
 31- How does the choice of n_mels affect the Mel Spectrogram and its use in machine learning models?
 
-Ans- A higher n_mels value captures more detailed frequency information but increases computational cost, while a lower value may reduce resolution but simplify processing.
+Ans- A higher n_mels value captures more detailed frequency information but increases computational cost, while a lower value may reduce resolution but simplify processing..
 
 (-------------------------------------------------------------------------)
 
