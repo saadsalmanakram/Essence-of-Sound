@@ -244,4 +244,16 @@ Ans- It pads shorter examples to 30 seconds and truncates longer ones to 30 seco
 
 (-------------------------------------------------------------------------)
 
+44- What are log-mel spectrograms, and why are they important in audio preprocessing?
+
+Ans- Log-mel spectrograms represent how frequencies change over time in a way that reflects human hearing, making them useful input features for models.
+
+(-------------------------------------------------------------------------)
+
+45- How can you preprocess an audio dataset using the Whisper feature extractor?
+
+Ans- Define a function that processes the audio data through the feature extractor and apply it to the dataset using the map method.
+
+(-------------------------------------------------------------------------)
+
 
