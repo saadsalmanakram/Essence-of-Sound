@@ -154,4 +154,10 @@ Ans- Mel Spectrograms are lossy due to filtering, making it challenging to recon
 
 (--------------------------------------------------------------------------)
 
+27- How does converting a Mel Spectrogram back into a waveform compare to converting a standard spectrogram?
+
+Ans- Converting a Mel Spectrogram back into a waveform is more complex due to the loss of high-frequency information and the need to estimate frequencies that were filtered out.
+
+(--------------------------------------------------------------------------)
+
 
