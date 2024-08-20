@@ -496,4 +496,10 @@ Ans- Transformers for audio use similar architectures but modify the input/outpu
 
 (-----------------------------------------------------------------------)
 
+85- What are common audio tasks that transformers can perform?
+
+Ans- Common tasks include Automatic Speech Recognition (ASR), Text-to-Speech (TTS), audio classification, and voice conversion.
+
+(-----------------------------------------------------------------------)
+
 
