@@ -652,3 +652,9 @@ Ans- An external language model can improve transcription accuracy by acting as 
 
 (-----------------------------------------------------------------------)
 
+111- Why might CTC produce words that sound correct but are not spelled correctly?
+
+Ans- CTC focuses on predicting individual characters without considering word-level context, leading to potential spelling errors.
+
+(-----------------------------------------------------------------------)
+
