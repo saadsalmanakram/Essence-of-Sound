@@ -292,6 +292,10 @@ Ans- It reduces disk space usage by loading only one example at a time into memo
 
 (-------------------------------------------------------------------------)
 
+52- What is a key advantage of using streaming mode over downloading entire datasets?
+
+Ans- Faster start times as the data is processed on the fly, allowing immediate use.
+
+(-------------------------------------------------------------------------)
 
 
-Ans- 
