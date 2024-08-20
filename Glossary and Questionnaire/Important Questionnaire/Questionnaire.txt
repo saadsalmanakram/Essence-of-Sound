@@ -382,4 +382,10 @@ Ans- We can use a neural network called a vocoder to reconstruct a waveform from
 
 (------------------------------------------------------------------------)
 
+67- What is audio classification?
+
+Ans- Audio classification is the process of assigning labels to audio recordings based on their content.
+
+(------------------------------------------------------------------------)
+
 
