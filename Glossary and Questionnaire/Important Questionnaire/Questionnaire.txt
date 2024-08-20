@@ -454,4 +454,22 @@ Ans- The ASR pipeline may have limitations with accents, but it generally perfor
 
 (-----------------------------------------------------------------------)
 
+77- What is the role of a pre-trained model in an ASR pipeline?
+
+Ans- A pre-trained model provides a quick, effective solution for transcribing audio without the need for additional training.
+
+(-----------------------------------------------------------------------)
+
+78- How can you switch to an ASR model for a different language?
+
+Ans- Specify the model’s name for the desired language in the pipeline's model argument.
+
+(-----------------------------------------------------------------------)
+
+79- Why is it beneficial to use the pipeline for quick ASR tasks?
+
+Ans- It saves time and effort by automating the data handling and leveraging pre-trained models.
+
+(-----------------------------------------------------------------------)
+
 
