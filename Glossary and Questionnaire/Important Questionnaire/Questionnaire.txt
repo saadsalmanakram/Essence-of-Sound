@@ -40,4 +40,10 @@ Ans- The Nyquist limit is the highest frequency that can be captured, which is h
 
 (--------------------------------------------------------------------------)
 
+8- Why is a consistent sampling rate important in audio processing?
+
+Ans- A consistent sampling rate ensures uniform temporal resolution and prevents difficulties in model generalization.
+
+(--------------------------------------------------------------------------)
+
 
