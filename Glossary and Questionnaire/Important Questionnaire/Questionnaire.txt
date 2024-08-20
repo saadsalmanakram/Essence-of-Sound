@@ -628,3 +628,9 @@ Ans- Wav2Vec2 does not rely on explicit alignment; it uses CTC to map audio inpu
 
 (-----------------------------------------------------------------------)
 
+107- What is the main architectural similarity between Wav2Vec2 and HuBERT?
+
+Ans- Both Wav2Vec2 and HuBERT use the same transformer encoder architecture but are trained with different objectives.
+
+(-----------------------------------------------------------------------)
+
