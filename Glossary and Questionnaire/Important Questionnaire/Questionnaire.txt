@@ -232,4 +232,10 @@ Ans- It allows you to retain or remove dataset entries based on custom logic, su
 
 (-------------------------------------------------------------------------)
 
+40- What does a feature extractor do when preprocessing audio data for a model?
+
+Ans- Converts raw audio data into input features expected by the model, such as log-mel spectrograms.
+
+(-------------------------------------------------------------------------)
+
 
