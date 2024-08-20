@@ -220,4 +220,10 @@ Ans- To remove examples that are too long or too short, which could cause issues
 
 (-------------------------------------------------------------------------)
 
+38- How can you filter audio samples based on their duration using the 🤗 Datasets library?
+
+Ans- Add a duration column using librosa.get_duration(), apply a filter function with the filter method, and then remove the duration column.
+
+(-------------------------------------------------------------------------)
+
 
