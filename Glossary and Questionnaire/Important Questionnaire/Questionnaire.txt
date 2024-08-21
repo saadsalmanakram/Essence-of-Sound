@@ -766,4 +766,10 @@ Ans- An additional neural network that turns the spectrogram output of a transfo
 
 (-----------------------------------------------------------------------)
 
+130- Wav2Vec2 is an example of
+
+Ans- CTC architecture
+
+(-----------------------------------------------------------------------)
+
 
