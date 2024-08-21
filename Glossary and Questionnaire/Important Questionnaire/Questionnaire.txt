@@ -778,4 +778,10 @@ Ans- Blank token is a predicted token that serves as a hard boundary between gro
 
 (-----------------------------------------------------------------------)
 
+132- Whisper is an example of?
+
+Ans- Seq2Seq architecture
+
+(-----------------------------------------------------------------------)
+
 
