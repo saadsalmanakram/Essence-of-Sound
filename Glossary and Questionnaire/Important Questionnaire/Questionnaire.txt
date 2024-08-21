@@ -772,4 +772,10 @@ Ans- CTC architecture
 
 (-----------------------------------------------------------------------)
 
+131- What does a blank token in CTC algorithm do?
+
+Ans- Blank token is a predicted token that serves as a hard boundary between groups of characters. It makes it possible to filter out the duplicate characters
+
+(-----------------------------------------------------------------------)
+
 
