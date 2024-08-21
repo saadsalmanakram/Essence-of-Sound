@@ -760,4 +760,10 @@ Ans- Seq2seq models handle varying lengths by using the encoder to process the e
 
 (-----------------------------------------------------------------------)
 
+129- What is a vocoder?
+
+Ans- An additional neural network that turns the spectrogram output of a transformer into a waveform.
+
+(-----------------------------------------------------------------------)
+
 
